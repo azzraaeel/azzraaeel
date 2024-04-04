@@ -2,6 +2,8 @@
 #include <discipline.h>
 #include <consistency.h>
 #include <humbleness.h>
+#include <coolness.h>
+
 
 void whoami()
 {
