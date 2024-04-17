@@ -1,4 +1,4 @@
-```
+```c
 #include <discipline.h>
 #include <consistency.h>
 #include <humbleness.h>
